@@ -1,0 +1,7 @@
+
+discovery :
+  enabled : true
+
+
+server :
+  port : 8888
